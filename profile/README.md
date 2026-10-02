@@ -9,9 +9,9 @@ del veterinario hasta el certificado de exportación.
 
 ## What is public here
 
-- **[roots](https://github.com/tropa-lat/roots)**: the daily Merkle root of
+- **[roots](https://github.com/tropalat/roots)**: the daily Merkle root of
   every event recorded in Tropa, anchored with OpenTimestamps.
-- **[verify](https://github.com/tropa-lat/verify)**: a command-line tool to
+- **[verify](https://github.com/tropalat/verify)**: a command-line tool to
   check a Tropa document or evidence pack without trusting Tropa.
 
 ## Status
