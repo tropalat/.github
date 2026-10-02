@@ -1,3 +1,0 @@
-*                 @tropalat/core
-/pipeline/        @tropalat/vet-review @tropalat/core
-/shared/rules/    @tropalat/vet-review @tropalat/core
